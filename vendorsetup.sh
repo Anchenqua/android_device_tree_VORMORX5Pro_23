@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_VORMOR-X5pro-user
-add_lunch_combo omni_VORMOR-X5pro-userdebug
-add_lunch_combo omni_VORMOR-X5pro-eng
+add_lunch_combo omni_VORMOR-user
+add_lunch_combo omni_VORMOR-userdebug
+add_lunch_combo omni_VORMOR-eng
